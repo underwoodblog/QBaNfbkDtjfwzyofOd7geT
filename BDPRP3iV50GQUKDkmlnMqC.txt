@@ -1,9 +1,3 @@
-Add to your file host these strings
-
-
-
-
-
 0.0.0.0 ic.adobe.io
 0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 prod.adobegenuine.com
